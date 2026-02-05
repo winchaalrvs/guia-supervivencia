@@ -1,0 +1,1 @@
+Haz git pull antes de empezar a trabajar en equipo.
